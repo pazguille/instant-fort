@@ -1,0 +1,10 @@
+http_path = '/'
+css_dir = 'www/styles/css'
+sass_dir = 'www/styles/scss'
+images_dir = 'www/images'
+fonts_dir = ''
+output_style = :compressed
+environment = :development
+relative_assets = true
+line_comments = true
+Sass::Script::Number.precision = 8

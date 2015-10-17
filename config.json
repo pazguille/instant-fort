@@ -1,0 +1,13 @@
+{
+  "templates":[
+    {
+      "name": "index",
+      "languages": ["es"]
+    }
+  ],
+  "default_language": "es",
+  "assets_url": "assets",
+  "styles_url": "styles/css",
+  "javascript_url": "",
+  "development": false
+}
