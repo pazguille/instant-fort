@@ -1,24 +1,76 @@
 {
   "site": {
-    "title": "",
-    "description": "",
-    "keywords": ""
+    "title": "Instant Fort",
+    "tagline": "Un hermoso recuerdo de Ricky",
+    "description": "Famosas frases con audio de Ricardo Fort",
+    "keywords": "instant, fort, ricky"
+  },
+  "source": "Fuente",
+  "footer": {
+    "original": "Original. ",
+    "github": "En Github. ",
+    "mobile": "Esta web también funciona en celulares sin flash :)"
   },
   "buttons": [
     {
       "label": "Mamá!",
       "mp3_url": "mp3s/mama.mp3",
-      "youtube_url": "https://www.youtube.com/watch?v=uV_Io9r5PSo"
+      "source_url": "https://www.youtube.com/watch?v=uV_Io9r5PSo"
     },
     {
       "label": "Jajaja",
       "mp3_url": "mp3s/jajaja.mp3",
-      "youtube_url": "https://www.youtube.com/watch?v=PnYyTd7rIuk"
+      "source_url": "https://www.youtube.com/watch?v=PnYyTd7rIuk"
     },
     {
       "label": "Basta chicos",
       "mp3_url": "mp3s/basta_chicos.mp3",
-      "youtube_url": "https://www.youtube.com/watch?v=PnYyTd7rIuk"
+      "source_url": "https://www.youtube.com/watch?v=PnYyTd7rIuk"
+    },
+    {
+      "label": "Miamiii",
+      "mp3_url": "mp3s/miami.mp3",
+      "source_url": "https://www.youtube.com/watch?v=4ue2a6wN_wo"
+    },
+    {
+      "label": "Saca la mano de ahí c*rajo",
+      "mp3_url": "mp3s/saca_la_mano.mp3",
+      "source_url": "https://www.youtube.com/watch?v=0UMVKAIEfk8"
+    },
+    {
+      "label": "No me dejaban en paz. Tremendo.",
+      "mp3_url": "mp3s/no_me_dejaban_en_paz.mp3",
+      "source_url": "https://www.youtube.com/watch?v=bag0Z5R4rzo"
+    },
+    {
+      "label": "Con más de 2 dedos de cerebro",
+      "mp3_url": "mp3s/con_mas_de_dos_dedos_de_cerebro.mp3",
+      "source_url": "https://www.youtube.com/watch?v=KMC58fU8Rv0"
+    },
+    {
+      "label": "Sos una pata sucia",
+      "mp3_url": "mp3s/sos_una_pata_sucia.mp3",
+      "source_url": "http://musicaq.net/descargar_musica/ricardo-fort-1.html"
+    },
+    {
+      "label": "Como está esta chocoloca",
+      "mp3_url": "mp3s/como_esta_esta_chocoloca.mp3",
+      "source_url": "https://www.youtube.com/watch?v=MeTXtOcy0w4"
+    },
+    {
+      "label": "A mi me encantan los hombres",
+      "mp3_url": "mp3s/me_encantan_los_hombres.mp3",
+      "source_url": "https://www.youtube.com/watch?v=k59L1wX6inY"
+    },
+    {
+      "label": "Un avión privado siempre es necesario",
+      "mp3_url": "mp3s/avion_privado.mp3",
+      "source_url": "https://www.youtube.com/watch?v=3koxFFpXiBM"
+    },
+    {
+      "label": "Estoy pensando comprarme una isla",
+      "mp3_url": "mp3s/comprar_isla.mp3",
+      "source_url": "https://www.youtube.com/watch?v=3koxFFpXiBM"
     }
   ]
 }

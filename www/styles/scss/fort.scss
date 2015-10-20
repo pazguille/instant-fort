@@ -89,8 +89,7 @@
 
     button {
       display:inline-block;
-      text-indent:-9999em;
-      font-size:0;
+      position:relative;
       cursor:pointer;
       margin:0 auto;
       width:100px;
@@ -99,9 +98,29 @@
       background-repeat:no-repeat;
       background-size:100px 100px;
 
+      span {
+        display:none;
+        width:86px;
+        height:82px;
+        background:rgba(0,0,0,0.3);
+        border-radius:82px;
+        text-indent:-9999em;
+        font-size:0;
+        position:absolute;
+        left:7px;
+        top:3px;
+        z-index:1;
+      }
+
       &:active {
+
         position:relative;
         top:2px;
+
+        span {
+          display:block;
+        }
+
       }
 
     }
@@ -109,6 +128,8 @@
     strong {
       display:block;
       font-size:1.25em;
+      line-height:120%;
+      min-height:80px;
       padding:20px 0 12px;
     }
 
@@ -145,6 +166,10 @@
     
     body {
       background-image:none;
+    }
+
+    .audio strong {
+      min-height:0;
     }
     
     .footer p {
