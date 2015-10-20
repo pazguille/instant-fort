@@ -27,7 +27,7 @@
 
 
   body {
-    background:#FFF url(../../assets/images/ricky.jpg) no-repeat 100% 0 fixed;
+    background:#FFF url(../../assets/images/ricky.jpg) no-repeat 100% 100% fixed;
     font:100% Arial, Helvetica, sans-serif;
   }
 
@@ -99,7 +99,7 @@
       background-size:100px 100px;
 
       span {
-        display:none;
+        opacity:0;
         width:86px;
         height:82px;
         background:rgba(0,0,0,0.3);
@@ -118,7 +118,7 @@
         top:2px;
 
         span {
-          display:block;
+          opacity:1;
         }
 
       }

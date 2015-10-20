@@ -22,14 +22,13 @@ html
           li.grid-column-2.grid-column-12-s.grid-column-3-m
             div(class="audio audio-#{i+1}")
               span.grid-column-6-s.grid-column-12
-                button(onclick="document.getElementById('audio-" + (i+1) + "').play()")
-                  span= button.label
+                button
+                  span(onclick="document.getElementById('audio-" + (i+1) + "').play()")= button.label
               span.grid-column-6-s.grid-column-12
                 strong= button.label
                 a(href=button.source_url, target="_blank")= source
                 audio(id="audio-" + (i + 1))
                   source(src=assets_url + button.mp3_url)
-
 
     footer.footer.wrap
       p
