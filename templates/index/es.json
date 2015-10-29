@@ -74,7 +74,8 @@
     },
     {
       "label": "Yo no manejo el rating...",
-      "mp3_url": "mp3s/rating.mp3"
+      "mp3_url": "mp3s/rating.mp3",
+      "source_url": "https://www.youtube.com/watch?v=9DLBgokaIe0&feature=youtu.be&t=26s"
     }
   ]
 }
