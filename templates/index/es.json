@@ -71,6 +71,10 @@
       "label": "Estoy pensando comprarme una isla",
       "mp3_url": "mp3s/comprar_isla.mp3",
       "source_url": "https://www.youtube.com/watch?v=3koxFFpXiBM"
+    },
+    {
+      "label": "Yo no manejo el rating...",
+      "mp3_url": "mp3s/rating.mp3"
     }
   ]
 }
