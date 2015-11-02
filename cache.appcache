@@ -1,0 +1,32 @@
+CACHE MANIFEST
+
+# Version: 0.0.1
+
+# Main page
+index.html
+
+# CSS
+styles/css/fort.css
+
+# Images
+favicon.png
+assets/images/ricky.jpg
+assets/images/button.png
+
+# Sounds
+assets/mp3s/mama.mp3
+assets/mp3s/jajaja.mp3
+assets/mp3s/basta_chicos.mp3
+assets/mp3s/miami.mp3
+assets/mp3s/saca_la_mano.mp3
+assets/mp3s/no_me_dejaban_en_paz.mp3
+assets/mp3s/con_mas_de_dos_dedos_de_cerebro.mp3
+assets/mp3s/sos_una_pata_sucia.mp3
+assets/mp3s/como_esta_esta_chocoloca.mp3
+assets/mp3s/me_encantan_los_hombres.mp3
+assets/mp3s/avion_privado.mp3
+assets/mp3s/comprar_isla.mp3
+assets/mp3s/rating.mp3
+
+NETWORK:
+*
